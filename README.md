@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 # Hello I'm XiaoXiao!
 
-<img src="https://figurebed-ladidol.oss-cn-chengdu.aliyuncs.com/img/202207250006010.png" width="1000px">
+<!--
+  <img src="https://figurebed-ladidol.oss-cn-chengdu.aliyuncs.com/img/202207250006010.png" width="1000px">
+-->
+blog: [http://ladidol.top](http://ladidol.top)
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ladidol&include_all_commits=true&count_private-true&custom_title=ladidol'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
